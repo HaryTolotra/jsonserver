@@ -12,24 +12,6 @@
           "userId": 744,
           "comment": "You've swallowed a planet!",
           "createdDate": "2021-06-14T02:34:36Z"
-        },
-        {
-          "id": 2,
-          "userId": 218,
-          "comment": "All I've got to do is pass as an ordinary human being",
-          "createdDate": "2021-09-06T14:33:19Z"
-        },
-        {
-          "id": 3,
-          "userId": 945,
-          "comment": "What could possibly go wrong?",
-          "createdDate": "2021-11-20T08:15:29Z"
-        },
-        {
-          "id": 4,
-          "userId": 919,
-          "comment": "Saving the world with meals on wheels.",
-          "createdDate": "2021-11-01T01:50:59Z"
         }
       ]
     },
@@ -46,18 +28,6 @@
           "userId": 971,
           "comment": "I am the Doctor, and you are the Daleks!",
           "createdDate": "2021-10-26T13:12:30Z"
-        },
-        {
-          "id": 6,
-          "userId": 681,
-          "comment": "No… It's a thing; it's like a plan, but with more greatness.",
-          "createdDate": "2021-10-18T18:46:16Z"
-        },
-        {
-          "id": 7,
-          "userId": 66,
-          "comment": "No, I'll fix it.",
-          "createdDate": "2021-04-16T21:39:32Z"
         }
       ]
     },
@@ -74,12 +44,6 @@
           "userId": 342,
           "comment": "I'm nobody's taxi service",
           "createdDate": "2020-11-30T16:40:44Z"
-        },
-        {
-          "id": 9,
-          "userId": 966,
-          "comment": "I'm not gonna be there to catch you every time you feel like jumping out of a spaceship",
-          "createdDate": "2021-05-22T18:06:29Z"
         }
       ]
     },
@@ -96,18 +60,6 @@
           "userId": 483,
           "comment": "Saving the world with meals on wheels.",
           "createdDate": "2020-06-23T12:12:12Z"
-        },
-        {
-          "id": 11,
-          "userId": 975,
-          "comment": "Did I mention we have comfy chairs?",
-          "createdDate": "2021-10-08T22:10:06Z"
-        },
-        {
-          "id": 12,
-          "userId": 981,
-          "comment": "Annihilate? No. No violence.",
-          "createdDate": "2021-02-17T11:14:44Z"
         }
       ]
     },
@@ -1054,146 +1006,6 @@
       "department": "Product Management",
       "company": "Friesen, Rice and Stracke",
       "imageUrl": "https://i.pravatar.cc/100?img=16"
-    },
-    {
-      "id": 87,
-      "firstName": "Ilse",
-      "lastName": "Carlin",
-      "email": "icarlin2e@ebay.co.uk",
-      "job": "Human Resources Assistant I",
-      "department": "Product Management",
-      "company": "Farrell, Reynolds and Wintheiser",
-      "imageUrl": "https://i.pravatar.cc/100?img=17"
-    },
-    {
-      "id": 88,
-      "firstName": "Forester",
-      "lastName": "Jelleman",
-      "email": "fjelleman2f@home.pl",
-      "job": "Graphic Designer",
-      "department": "Legal",
-      "company": "Lebsack, Weber and Lubowitz",
-      "imageUrl": "https://i.pravatar.cc/100?img=18"
-    },
-    {
-      "id": 89,
-      "firstName": "Paquito",
-      "lastName": "Sodor",
-      "email": "psodor2g@umn.edu",
-      "job": "Director of Sales",
-      "department": "Business Development",
-      "company": "Huels LLC",
-      "imageUrl": "https://i.pravatar.cc/100?img=19"
-    },
-    {
-      "id": 90,
-      "firstName": "Addi",
-      "lastName": "Lissett",
-      "email": "alissett2h@about.me",
-      "job": "Research Associate",
-      "department": "Services",
-      "company": "Jenkins, Cronin and Durgan",
-      "imageUrl": "https://i.pravatar.cc/100?img=30"
-    },
-    {
-      "id": 91,
-      "firstName": "Zondra",
-      "lastName": "Sheehan",
-      "email": "zsheehan2i@elpais.com",
-      "job": "Health Coach III",
-      "department": "Training",
-      "company": "Runte, Beahan and Cummings",
-      "imageUrl": "https://i.pravatar.cc/100?img=21"
-    },
-    {
-      "id": 92,
-      "firstName": "Pete",
-      "lastName": "Jouannisson",
-      "email": "pjouannisson2j@twitter.com",
-      "job": "Sales Representative",
-      "department": "Business Development",
-      "company": "Rolfson, Ritchie and Johnson",
-      "imageUrl": "https://i.pravatar.cc/100?img=22"
-    },
-    {
-      "id": 93,
-      "firstName": "Joice",
-      "lastName": "Gilfoyle",
-      "email": "jgilfoyle2k@yandex.ru",
-      "job": "Research Nurse",
-      "department": "Training",
-      "company": "Champlin, Kiehn and Halvorson",
-      "imageUrl": "https://i.pravatar.cc/100?img=23"
-    },
-    {
-      "id": 94,
-      "firstName": "Codee",
-      "lastName": "Beaty",
-      "email": "cbeaty2l@instagram.com",
-      "job": "Senior Developer",
-      "department": "Services",
-      "company": "Romaguera-Christiansen",
-      "imageUrl": "https://i.pravatar.cc/100?img=24"
-    },
-    {
-      "id": 95,
-      "firstName": "Rey",
-      "lastName": "Callicott",
-      "email": "rcallicott2m@spiegel.de",
-      "job": "Staff Accountant II",
-      "department": "Support",
-      "company": "Lind-Smith",
-      "imageUrl": "https://i.pravatar.cc/100?img=25"
-    },
-    {
-      "id": 96,
-      "firstName": "Tracie",
-      "lastName": "O'Henehan",
-      "email": "tohenehan2n@moonfruit.com",
-      "job": "Software Consultant",
-      "department": "Services",
-      "company": "Olson-Price",
-      "imageUrl": "https://i.pravatar.cc/100?img=26"
-    },
-    {
-      "id": 97,
-      "firstName": "Cristie",
-      "lastName": "Huster",
-      "email": "chuster2o@imdb.com",
-      "job": "Nurse Practicioner",
-      "department": "Services",
-      "company": "Moore-Roob",
-      "imageUrl": "https://i.pravatar.cc/100?img=27"
-    },
-    {
-      "id": 98,
-      "firstName": "Bartholemy",
-      "lastName": "Gallie",
-      "email": "bgallie2p@technorati.com",
-      "job": "Dental Hygienist",
-      "department": "Accounting",
-      "company": "Steuber LLC",
-      "imageUrl": "https://i.pravatar.cc/100?img=28"
-    },
-    {
-      "id": 99,
-      "firstName": "Carolee",
-      "lastName": "Ropp",
-      "email": "cropp2q@t-online.de",
-      "job": "Software Test Engineer II",
-      "department": "Support",
-      "company": "Bashirian, Kerluke and Skiles",
-      "imageUrl": "https://i.pravatar.cc/100?img=29"
-    },
-    {
-      "id": 100,
-      "firstName": "Evangeline",
-      "lastName": "Hodjetts",
-      "email": "ehodjetts2r@wix.com",
-      "job": "Nurse",
-      "department": "Sales",
-      "company": "Ebert Inc",
-      "imageUrl": "https://i.pravatar.cc/100?img=40"
     }
   ]
 }
